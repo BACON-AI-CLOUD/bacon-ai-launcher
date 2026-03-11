@@ -73,11 +73,6 @@ When you're running 10+ parallel Claude Code sessions, you need to know **instan
 
 Each theme is applied by **restarting code-server** with the new `settings.json` &mdash; the full IDE environment updates: editor background, sidebar, terminal, status bar, tab colors, and accent highlights.
 
-<p align="center">
-  <img src="screenshots/claude-theme-codeserver.png" alt="Claude Theme in code-server" width="100%" />
-  <br /><em>A project launched with the Claude Dark theme &mdash; deep indigo background, amber accents, Claude Code running in the terminal</em>
-</p>
-
 ### Session Browser with Resume & Fork
 
 Browse previous Claude Code conversations per project. Preview the first user messages to remember what each session was about. Then **resume** exactly where you left off, or **fork** to branch a new conversation from any point.
